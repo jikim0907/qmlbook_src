@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>assets/container.jpg</file>
+        <file>Rest.qml</file>
+        <file>colorservice.js</file>
+    </qresource>
+</RCC>
