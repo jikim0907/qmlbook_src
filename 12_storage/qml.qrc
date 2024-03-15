@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Colorstore.qml</file>
+        <file>SQL.qml</file>
+    </qresource>
+</RCC>
